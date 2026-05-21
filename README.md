@@ -1,2 +1,1 @@
-# cuddly-broccoli-5l3yv9e
-# This is subdomain takeover
+HTTP ERROR 404
